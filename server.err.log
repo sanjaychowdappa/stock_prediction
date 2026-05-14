@@ -1,0 +1,16 @@
+[stock-predictor] ALPHA_VANTAGE_KEY is not set — using built-in demo key (heavy rate limits). Copy .env.example to .env and add your key.
+[stock-predictor] FINNHUB_API_KEY not set — no live trade stream. Add a free key from https://finnhub.io/register (US stocks stream in real time when markets are open).
+[stock-predictor] ALPHA_VANTAGE_KEY is not set — using built-in demo key (heavy rate limits). Copy .env.example to .env and add your key.
+[stock-predictor] FINNHUB_API_KEY not set — no live trade stream. Add a free key from https://finnhub.io/register (US stocks stream in real time when markets are open).
+[stock-predictor] FINNHUB_API_KEY not set — no live trade stream. Add a free key from https://finnhub.io/register (US stocks stream in real time when markets are open).
+[stock-predictor] FINNHUB_API_KEY not set — no live trade stream. Add a free key from https://finnhub.io/register (US stocks stream in real time when markets are open).
+[stock-predictor] Yahoo chart unavailable for AAPL: 
+[stock-predictor] FINNHUB_API_KEY not set — no live trade stream. Add a free key from https://finnhub.io/register (US stocks stream in real time when markets are open).
+[stock-predictor] Yahoo chart unavailable for AAPL: 
+[stock-predictor] FINNHUB_API_KEY not set — no live trade stream. Add a free key from https://finnhub.io/register (US stocks stream in real time when markets are open).
+[stock-predictor] Yahoo chart unavailable for AAPL: 
+[stock-predictor] Yahoo chart unavailable for AAPL: 
+[stock-predictor] Yahoo chart unavailable for NVDA: 
+[stock-predictor] Yahoo chart unavailable for INTC: 
+[stock-predictor] FINNHUB_API_KEY not set — no live trade stream. Add a free key from https://finnhub.io/register (US stocks stream in real time when markets are open).
+[stock-predictor] FINNHUB_API_KEY not set — no live trade stream. Add a free key from https://finnhub.io/register (US stocks stream in real time when markets are open).
